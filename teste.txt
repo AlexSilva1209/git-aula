@@ -1,0 +1,3 @@
+git remote add origin https://github.com/AlexSilva1209/git-aula.git
+git branch -M main
+git push -u origin main
